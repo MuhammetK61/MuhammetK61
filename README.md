@@ -1,6 +1,6 @@
 ### Hi I'm Muhammet Ali KARAGÜZEL 👋
 
-#🌱 I'm currently learning Php Symfony with the help of Patika.dev  
+#🌱 I used Php Symfony Framework
 #💬 I used PHP, HTML, CSS, Bootstrap, C, Ruby, JAVA.  
 #📫 You can reach me at muhammetali.karaguzel61@gmail.com  
 <!--
