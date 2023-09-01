@@ -1,7 +1,7 @@
 ### Hi I'm Muhammet Ali KARAGÜZEL 👋
-
-#🌱 I used Php Symfony Framework  
-#💬 I used PHP, HTML, CSS, Bootstrap, Javascript, JAVA.  
+  
+#💬 I used , HTML, CSS, Bootstrap, Javascript, JAVA.
+#🌱 I used Hibernate, JPA, JSF
 #📫 You can reach me at muhammetali.karaguzel61@gmail.com  
 <!--
 **MuhammetK61/MuhammetK61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
